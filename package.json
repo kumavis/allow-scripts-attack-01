@@ -12,7 +12,7 @@
     "allow-scripts": "^1.5.3"
   },
   "dependencies": {
-    "abc": "git+https://github.com/kumavis/allow-scripts-attack-01.git",
+    "abc": "git+https://github.com/kumavis/allow-scripts-attack-01-dep-abc.git",
     "keccak": "^3.0.1"
   },
   "allowScripts": {
